@@ -47,7 +47,7 @@ Upon accessing the application, users can:
 
 ## Contributors
 
-This project was developed by [Your Name] and contributions from other developers are welcome. To contribute to the project, please [follow these guidelines](CONTRIBUTING.md).
+This project was developed by [Kaustubh Dharme] and contributions from other developers are welcome. To contribute to the project, please [follow these guidelines](CONTRIBUTING.md).
 
 ## License
 
