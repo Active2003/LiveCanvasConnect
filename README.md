@@ -1,8 +1,19 @@
 # LiveCanvasConnect
 
 LiveCanvasConnect is a collaborative whiteboard application that allows users to draw and view others' drawings in real-time using socket connections. It also features an access restriction functionality, allowing access only to approved users.
+<br>
+## Result
 
-Result
+![SS4](https://github.com/Active2003/LiveCanvasConnect/assets/109369749/170c3af9-5552-4bc7-80b9-9abb6c4fca1e)
+<br>
+
+
+![SS3](https://github.com/Active2003/LiveCanvasConnect/assets/109369749/7a7ae50b-c753-4918-96de-2ce4347b3c58)
+<br>
+
+![SS1](https://github.com/Active2003/LiveCanvasConnect/assets/109369749/a8b7f18b-31ec-4067-a1e7-6783379f2e08)
+<br>
+
 
 ### Key Features
 
